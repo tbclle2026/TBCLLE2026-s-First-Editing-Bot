@@ -1,5 +1,5 @@
 {
-  "discord_token": "MTQ4NTk0OTQ1MjU3NjM2MjU4Nw.GLHvo9.pen_h_Ra5jVXMv9GWSw9oVgcekJaivjuHAUvLY",
+  "discord_token": "YOUR_BOT_TOKEN_HERE",
   "message_search_count": 8,
   "command_chain_limit": 5,
   "working_directory": "./working_dir",
