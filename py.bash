@@ -1,1 +1,1 @@
-python "discordBot (1).py"
+python discordBot (1).py
